@@ -1,0 +1,15 @@
+C:\Users\Lale\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Lale\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\Lale\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.Form5.resources
+C:\Users\Lale\source\repos\Project\Project\obj\Debug\Project.Form6.resources
